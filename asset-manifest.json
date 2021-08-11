@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mfc-helper-tutorial/static/css/main.df1f369b.chunk.css",
-    "main.js": "/mfc-helper-tutorial/static/js/main.f5ef3a41.chunk.js",
-    "main.js.map": "/mfc-helper-tutorial/static/js/main.f5ef3a41.chunk.js.map",
+    "main.js": "/mfc-helper-tutorial/static/js/main.8ebf20de.chunk.js",
+    "main.js.map": "/mfc-helper-tutorial/static/js/main.8ebf20de.chunk.js.map",
     "runtime-main.js": "/mfc-helper-tutorial/static/js/runtime-main.88515efe.js",
     "runtime-main.js.map": "/mfc-helper-tutorial/static/js/runtime-main.88515efe.js.map",
     "static/js/2.a64770f2.chunk.js": "/mfc-helper-tutorial/static/js/2.a64770f2.chunk.js",
@@ -17,6 +17,7 @@
     "static/media/docs-header.65849ca5.png": "/mfc-helper-tutorial/static/media/docs-header.65849ca5.png",
     "static/media/full-view-overlay.77d9730b.svg": "/mfc-helper-tutorial/static/media/full-view-overlay.77d9730b.svg",
     "static/media/full-view.58a3c392.svg": "/mfc-helper-tutorial/static/media/full-view.58a3c392.svg",
+    "static/media/joel-screen.0c6369b4.png": "/mfc-helper-tutorial/static/media/joel-screen.0c6369b4.png",
     "static/media/loading.c12bfe78.gif": "/mfc-helper-tutorial/static/media/loading.c12bfe78.gif",
     "static/media/mic-off.4c29debe.svg": "/mfc-helper-tutorial/static/media/mic-off.4c29debe.svg",
     "static/media/mic-on.f70cf319.svg": "/mfc-helper-tutorial/static/media/mic-on.f70cf319.svg",
@@ -34,6 +35,6 @@
     "static/js/runtime-main.88515efe.js",
     "static/js/2.a64770f2.chunk.js",
     "static/css/main.df1f369b.chunk.css",
-    "static/js/main.f5ef3a41.chunk.js"
+    "static/js/main.8ebf20de.chunk.js"
   ]
 }
